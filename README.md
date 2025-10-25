@@ -305,14 +305,10 @@ We welcome contributions! Please follow these steps:
 - Include docstrings for all functions
 - Test with sample data before submitting
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
 
-- **Project Link**: [Capstone-Project-of-Summer-Analytics-2025](https://github.com/MrRogueKnight/Capstone-Project-of-Summer-Analytics-2025)
-- **LinkedIn**: [Prashant Ranjan](https://linkedin.com/in/MrRogueKnight)
+- **Project Link**: [Capstone-Project-of-Summer-Analytics-2025](https://github.com/Dipendra123456/Dynamic-Pricing-for-Urban-Parking-Lot)
+- **LinkedIn**: [Dipendra Pratap Singh](https://www.linkedin.com/in/dipendra-singh-762143213/)
 
 ## 🙏 Acknowledgments
 
@@ -326,4 +322,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repository if you find it helpful!**
 
 **📊 This project demonstrates advanced data science techniques for real-world business applications.**
+
 
