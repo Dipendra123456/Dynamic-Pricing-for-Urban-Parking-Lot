@@ -18,7 +18,6 @@ A sophisticated real-time dynamic pricing system for urban parking lots that opt
 - [Features](#-features)
 - [Results](#-results)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🎯 Project Overview
 
@@ -322,5 +321,6 @@ We welcome contributions! Please follow these steps:
 **⭐ Star this repository if you find it helpful!**
 
 **📊 This project demonstrates advanced data science techniques for real-world business applications.**
+
 
 
